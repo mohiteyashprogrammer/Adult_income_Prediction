@@ -1,6 +1,7 @@
+
 # neurolab-flask
 ## Web Page
-https://github.com/mohiteyashprogrammer/Adult_income_Prediction/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4
+https://user-images.githubusercontent.com/114924851/236514263-07839cb5-42fa-4ac8-818d-7f0a8cc028b9.mp4
 
 
 To run flask application 
